@@ -9,6 +9,7 @@
 ###
 
 <h3 align="center">A passionate Web3 and Mobile Developer from Turkiye</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hdrfurkann&label=Profile%20views&color=0e75b6&style=flat" alt="hdrfurkann" /> </p>
 
 ###
 
