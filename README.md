@@ -36,9 +36,10 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 
-  <a href="https://www.buymeacoffee.com/hdrfurkann"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hdrfurkann" /></a>
-
-  <p></p><br><br>
+  <a href="https://www.buymeacoffee.com/hdrfurkann" target="_blank">
+  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hdrfurkann" />
+  </a>
+  <br><br>
 </div>
 
 ###
