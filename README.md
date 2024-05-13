@@ -64,6 +64,8 @@
   <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="40" alt="stackoverflow logo"  />
 </div>
 
+<div style="background-color: red, padding="20px" ">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hdrfurkann&show_icons=true&locale=en&layout=compact" alt="hdrfurkann" /></p>
+</div>
 
 ###
