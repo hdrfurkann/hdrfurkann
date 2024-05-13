@@ -67,7 +67,7 @@
 
 <div style="background-color: red, padding="20px" ">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hdrfurkann&show_icons=true&locale=en&layout=compact" alt="hdrfurkann" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadece1eren&show_icons=true&locale=en" alt="sadece1eren" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hdrfurkann&show_icons=true&locale=en" alt="hdrfurkann" /></p>
 </div>
 
 ###
