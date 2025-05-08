@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="100" src="https://play-lh.googleusercontent.com/SzRiogsQ06KhScluR51BDQ3E2ImAgcgWJL5Pr0SCZVD9NqZIhIcBHbwjw0gD85KKvOpO=w3840-h2160-rw"  />
-</div>
-
 ###
 
 <h1 align="center">Hi 👋! My name is Furkan</h1>
